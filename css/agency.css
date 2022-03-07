@@ -555,11 +555,24 @@ section h3.section-subheading {
 aside.clients img {
   margin: 50px auto;
 }
+section#our-story {
+  background-image: url(../img/back.png) !important;
+}
+section#meet {
+  background-image: url(../img/back.png) !important;
+}
+section#photos {
+  background-image: url(../img/back.png) !important;
+}
+section#events {
+  background-image: url('../img/back.png') !important;
+}
+section#maps {
+  background-image: url('../img/map-image.png') !important;
+}
 section#contact {
   background-color: #222222;
-  background-image: url('../img/map-image.png');
-  background-position: center;
-  background-repeat: no-repeat;
+  background-image: url(../img/back.png) !important;
 }
 section#contact .section-heading {
   color: white;
